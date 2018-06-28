@@ -252,6 +252,7 @@
 - [string-width](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
 - [cli-truncate](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
 - [first-run](https://github.com/sindresorhus/first-run) - Check if it's the first time the process is run.
+- [Cliffy](https://github.com/drew-y/cliffy) - Framework for Interactive CLIs - An alternative to Vorpal.
 - [vorpal](https://github.com/dthree/vorpal) - Interactive CLI apps.
 - [blessed](https://github.com/chjj/blessed) - Curses-like library.
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
